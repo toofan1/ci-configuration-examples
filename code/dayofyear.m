@@ -5,6 +5,7 @@ function doy = dayofyear(mmddyy,dateFormat)
 % NOTE: MATLAB already does easily this using:
 %           doy = day(d,"dayofyear")
 %       where d is a datetime object
+ 
 
 % Copyright 2022 The MathWorks, Inc.
 
